@@ -1,0 +1,25 @@
+{
+  "name": "nodehw",
+  "version": "1.0.0",
+  "description": "Package for NodeHW Liri",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmunoz5010/NodeHW.git"
+  },
+  "keywords": [
+    "Node",
+    "Twitter",
+    "OMDB",
+    "LIRI"
+  ],
+  "author": "Ramon M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmunoz5010/NodeHW/issues"
+  },
+  "homepage": "https://github.com/rmunoz5010/NodeHW#readme"
+}
